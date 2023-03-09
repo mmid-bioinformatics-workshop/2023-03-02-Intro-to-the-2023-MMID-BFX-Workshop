@@ -1,5 +1,6 @@
 # 2023-03-02-Intro-to-the-2023-MMID-BFX-Workshop
 Instructor: Grace E. Seo 
+
 Date: March 2, 2023
 
 Website: https://mmid-bioinformatics-workshop.github.io/
