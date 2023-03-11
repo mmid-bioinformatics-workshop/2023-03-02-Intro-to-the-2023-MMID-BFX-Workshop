@@ -5,7 +5,7 @@ Date: March 2, 2023
 
 Website: https://mmid-bioinformatics-workshop.github.io/
 
-*YouTube: https://youtu.be/h4AM6xZ3xGo*
+**YouTube: https://youtu.be/h4AM6xZ3xGo**
 
 
 ### Welcome to the 2023 MMID Bioinformatics Workshop!
